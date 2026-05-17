@@ -5,6 +5,7 @@ import heroImg from './assets/hero.png'
 import './App.css'
 import Header from './assets/header'   
 import Footer from './footer'
+import Tarjeta from './tarjetas'
 function App() {
   const [count, setCount] = useState(0)
 
